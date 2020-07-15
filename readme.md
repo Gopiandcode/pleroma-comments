@@ -1,6 +1,8 @@
 # Pleroma Comments
 *Privacy respecting FOSS comments system for static webpages.*
 
+![pleroma-comments-example-image](https://github.com/Gopiandcode/pleroma-comments/raw/master/example.png)
+
 Having comments can be a great way to spice up a blog or personal
 site, however most popular solutions for online comments (looking at
 you Disqus) are propriatary non-free privacy-disrespecting ~~pieces of
@@ -51,7 +53,7 @@ page.
 
 Assuming you've made a post on the Fediverse, and have since found your post's id.
 
-Simply add the script to your server (also update your (https://www.gnu.org/licenses/javascript-labels.html)[JS-licences] to mention it's FOSS), and load the script in the head of your page:
+Simply add the script to your server (also update your [JS-licences](https://www.gnu.org/licenses/javascript-labels.html) to mention it's FOSS), and load the script in the head of your page:
 ```
 <script type="text/javascript" src="pleroma_comments.js"></script>
 ```
