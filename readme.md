@@ -43,7 +43,7 @@ To build the plugin:
 
 ## Usage
 The idea of this plugin builds on the idea presented in this
-(https://ecmelberk.com/fediverse-comments.html)[blog-post] by Ecmel
+[blog-post](https://ecmelberk.com/fediverse-comments.html) by Ecmel
 Berk Canlıer.
 
 When you want to support comments for a blog or page, first share the
