@@ -5,7 +5,7 @@
 
 Having comments can be a great way to spice up a blog or personal
 site, however most popular solutions for online comments (looking at
-you Disqus) are propriatary non-free privacy-disrespecting ~~pieces of
+you Disqus) are proprietary non-free privacy-disrespecting ~~pieces of
 trash~~ *ahem* software.
 
 ## Dependencies
